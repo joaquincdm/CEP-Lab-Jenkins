@@ -101,7 +101,7 @@ Se puede observar el primer escaneo y ejecución, en el que Jenkins detecta el J
 
 El escaneo se puede ver que ha ido bien. Ahora voy a comprobar que se ha creado la rama en Jenkins y que puedo ver el Stage View de la rama.
 
-![Vista de las etapas](image_1_05.png)
+![Vista de las etapas](capturas/image_1_05.png)
 
 En el Stage View se puede ver que todas las etapas se han ejecutado correctamente, excepto la etapa de "Test" que ha fallado. 
 
